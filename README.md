@@ -1,5 +1,6 @@
 
 
+
 Third-Party Vendor Risk Assessment
 
 Project Overview
@@ -156,3 +157,7 @@ Demonstrate practical skills in third-party risk management, vendor due diligenc
 
 
 
+
+# third-party-vendor-assessment
+Third-party vendor security assessment and risk management project aligned with ISO 27001 and NIST CSF.
+ 4d8d5e535379fe2faf0a28dacc6e86214b063a80
